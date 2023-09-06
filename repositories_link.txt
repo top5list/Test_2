@@ -7,5 +7,5 @@ https://github.com/DominikDoom/a1111-sd-webui-tagcomplete
 https://github.com/zanllp/sd-webui-infinite-image-browsing
 https://github.com/Uminosachi/sd-webui-inpaint-anything
 https://github.com/hako-mikan/sd-webui-lora-block-weight
-https://github.com/ahgsql/StyleSelectorXL
+https://github.com/top5list/StyleSelectorXL_addMoreStyle
 https://github.com/AIrjen/OneButtonPrompt
